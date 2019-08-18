@@ -1,0 +1,20 @@
+{
+  "name": "3dblenderweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashman/3dblenderweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashman/3dblenderweb/issues"
+  },
+  "homepage": "https://github.com/bashman/3dblenderweb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
